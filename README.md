@@ -3,7 +3,7 @@
 - 🔬 Working in Cyber Security as a Threat Intelligence Engineer
 - 📚 MSc in Software Development
 - 🤝 Looking to collaborate on Cyber Threat Intelligence projects
-- 👉 Rear about some of my projects on my [website] (https://daire-curran.000webhostapp.com/)
+- 👉 Rear about some of my projects on my [website](https://daire-curran.000webhostapp.com/)
 - 🌱 Currently studying for Sec+ and CPTIA
 
 
