@@ -1,4 +1,11 @@
-### Hi there 👋
+### About me 👋
+
+- 🔬 Working in Cyber Security as a Threat Intelligence Engineer
+- 📚 MSc in Software Development
+- 🤝 Looking to collaborate on Cyber Threat Intelligence projects
+- 👉 Rear about some of my projects on my [website] (https://daire-curran.000webhostapp.com/)
+- 🌱 Currently studying for Sec+ and CPTIA
+
 
 <!--
 **dairelad/dairelad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
