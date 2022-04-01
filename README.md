@@ -1,9 +1,9 @@
 ### 👋 About me: 
 
-- 🔬 Working in Cyber Security as a Threat Intelligence Engineer
+- 🔬 Recently started working in Cyber Security as a Threat Intelligence Engineer
 - ⚡️ Looking to collaborate on Cyber Threat Intelligence projects
 - 🎓 BEng, MSc in Software Development
-- 👉 Rear about some of my projects on my [website](https://daire-curran.000webhostapp.com/)
+- 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
 - 🌱 Currently studying for Sec+ and CPTIA
 
 
