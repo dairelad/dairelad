@@ -1,4 +1,4 @@
-### 👋 About me: 
+### 👋 Preamble: 
 
 - 🔬 Recently started working in Cyber Security as a Threat Intelligence Engineer
 - ⚡️ Looking to collaborate on Cyber Threat Intelligence projects
