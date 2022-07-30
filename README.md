@@ -1,6 +1,6 @@
 ### 👋 Preamble: 
 
-- 🔬 Recently started working in Cyber Security as a Threat Intelligence Engineer
+- 🔬 Recently started working in Cyber Security in CTI collection
 - ⚡️ Looking to collaborate on Cyber Threat Intelligence projects
 - 🎓 BEng, MSc in Software Development
 - 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
