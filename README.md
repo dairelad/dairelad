@@ -1,10 +1,10 @@
 ### 👋 Preamble: 
 
-- 🔬 Recently started working in Cyber Security in CTI collection
-- ⚡️ Looking to collaborate on Cyber Threat Intelligence projects
+- 🔬 Working in Cyber Threat Intelligence - Collection & Processing
+- ⚡️ Looking to collaborate on some CTI projects over the course of the next year
 - 🎓 BEng, MSc in Software Development
 - 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
-- 🌱 Currently studying for Sec+ and CPTIA
+- 🌱 Currently studying for Net+ and Sec+
 
 
 <!--
