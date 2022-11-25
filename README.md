@@ -1,4 +1,4 @@
-### 👋 Preamble: 
+### 👋
 
 - 🔬 Working in Cyber Threat Intelligence - Collection & Processing
 - ⚡️ Looking to collaborate on some CTI projects over the course of the next year
