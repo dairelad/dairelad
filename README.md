@@ -1,10 +1,10 @@
 
 
-- 🔬 Working in Cyber Threat Intelligence - Collection & Processing
-- ⚡️ Looking to collaborate on some CTI projects over the course of the next year
+- 🔬 Work as a Cyber Security Engineer
+- 🌱 Net+, Sec+ Certified. Currently studying for the Linux+
 - 🎓 BEng, MSc in Software Development
+- ⚡️ Looking to collaborate on some CTI projects over the course of the next year
 - 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
-- 🌱 Currently studying for Net+ and Sec+
 
 
 <!--
