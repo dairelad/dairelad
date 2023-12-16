@@ -1,7 +1,7 @@
 
 
 - 🔬 I work as a Cyber Security Engineer
-- 🌱 Net+, Sec+ Certified. AZ-900 Azure Fundamentals Certified. Currently studying for the Linux+
+- 🌱 Network+, Security+ & Linux+ Certified. Currently studying for AZ-500
 - 🎓 BEng, MSc in Software Development
 - ⚡️ Looking to collaborate on some CTI projects over the course of the next year
 - 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
