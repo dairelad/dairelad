@@ -4,7 +4,7 @@
 - 🌱 Network+, Security+ & Linux+ certified. AZ-900 & CEH completed this year. Currently studying for CISSP.
 - 🎓 BEng, MSc in Software Development
 - ⚡️ Looking to collaborate on some CTI projects
-- 👉 Read about some of my projects on my website [here](https://daire-curran.com/)
+- 👉 Read about some of my projects on my [website](https://daire-curran.com/)
 
 
 <!--
