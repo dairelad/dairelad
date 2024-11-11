@@ -1,10 +1,10 @@
 
 
-- 🔬 I work as a Cyber Security Engineer
-- 🌱 Network+, Security+ & Linux+ Certified. Currently studying for AZ-500
+- 🔬 Working as a Cyber Security Engineer
+- 🌱 Network+, Security+ & Linux+ certified. AZ-900 & CEH completed this year. Currently studying for CISSP.
 - 🎓 BEng, MSc in Software Development
-- ⚡️ Looking to collaborate on some CTI projects over the course of the next year
-- 👉 Read about some of my projects [here](https://daire-curran.000webhostapp.com/)
+- ⚡️ Looking to collaborate on some CTI projects
+- 👉 Read about some of my projects on my website [here](https://daire-curran.com/)
 
 
 <!--
