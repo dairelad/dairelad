@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🔬 I am a Cyber Security Engineer at FedEx
-- 🌱 Network+, Security+ & Linux+ certified. AZ-900 & CEH completed this year. Currently studying for CISSP.
+- 🌱 Network+ | Security+ | Linux+ | AZ-900 | CEH | PCSAE | CPTIA
 - 🎓 BEng, MSc in Software Development
-- ⚡️ Looking to collaborate on some CTI projects
+- ⚡️ Looking to collaborate on CTI & AI projects
 - 👉 Read about some of my projects on my [website](https://daire-curran.com/)
 
 ## 💻 Tech Stack
