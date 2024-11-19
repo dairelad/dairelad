@@ -1,4 +1,4 @@
-🛡️ Cyber Security Engineer | 🌍 Open Source Enthusiast | 🎨 Threat Intelligence
+🛡️ Cyber Security Engineer | 🌍 Open Source Enthusiast | 🕷️ Threat Intelligence
 
 ## 🚀 About Me
 - 🔬 I am a Cyber Security Engineer at FedEx
