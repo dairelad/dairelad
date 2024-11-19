@@ -1,7 +1,7 @@
 🛡️ Cyber Security Engineer | 🌍 Open Source Enthusiast | 🎨 Threat Intelligence
 
 ## 🚀 About Me
-- 🔬 Working as a Cyber Security Engineer
+- 🔬 I am a Cyber Security Engineer at FedEx
 - 🌱 Network+, Security+ & Linux+ certified. AZ-900 & CEH completed this year. Currently studying for CISSP.
 - 🎓 BEng, MSc in Software Development
 - ⚡️ Looking to collaborate on some CTI projects
