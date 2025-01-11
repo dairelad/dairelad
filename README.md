@@ -1,7 +1,7 @@
 🛡️ Cyber Security Engineer | 🌍 Open Source Enthusiast | 🕷️ Threat Intelligence
 
 ## 🚀 About Me
-- 🔬 I am a Cyber Security Engineer at FedEx
+- 🔬 Cyber Security Engineer at FedEx
 - 🌱 Network+ | Security+ | Linux+ | AZ-900 | CEH | PCSAE | CPTIA
 - 🎓 BEng, MSc in Software Development
 - ⚡️ Looking to collaborate on CTI & AI projects
@@ -13,6 +13,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 <!--
 **dairelad/dairelad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
